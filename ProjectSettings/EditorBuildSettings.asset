@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Archival Objects.unity
     guid: cbbe6a34b3e7ce04bba721ae07a9c6d4
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 68ec5ae3b5e0d644caa24065575fd548, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9e95d9f4482eebd4bb8db5f719b4f452, type: 2}
